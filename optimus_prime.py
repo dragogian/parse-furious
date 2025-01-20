@@ -82,5 +82,8 @@ def create_info_extraction_chain(llm, output_class: Type[BaseModel]) -> Runnable
 
     Returns:
     RunnableSerializable[dict, Union[dict, BaseModel]]: A runnable chain for extracting information.
+    Remember it should be invoked with document and entities, i.e. Node Label you will use in the graph
+    Example:
+    extraction_chain.invoke({"document": document, "entities": entities})
     """
-    return prompt | llm.with_structured_output()
+    return prompt | llm.with_structured_output(output_class)
