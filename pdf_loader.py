@@ -7,6 +7,7 @@ from langchain_core.documents import Document as LangchainDocument
 from langchain_community.document_loaders.llmsherpa import LLMSherpaFileLoader
 from llmsherpa.readers import LayoutPDFReader, Document as LLMSherpaDocument
 
+CLEANED_PDF_PREFIX = "cleaned_resources/"
 
 def convert_llmsherpa_dict_to_langchain_doc(document: dict, filename: str) -> List[LangchainDocument]:
     """
@@ -91,17 +92,20 @@ def build_hierarchical_structure_json(data: dict) -> dict:
     return structure
 
 
-def sanitize_pdf(file: str) -> str:
+def sanitize_pdf(file: str, prefix: Optional[str] = CLEANED_PDF_PREFIX) -> str:
     """
     Sanitizes a PDF file by removing any non-UTF-8 characters or broken content.
 
     Parameters:
     file (str): The path to the PDF file to clean.
+    prefix (str): The prefix to add to the cleaned PDF file. I.e. the directory where the cleaned PDF file will be saved. Default is "cleaned_resources/".
 
     Returns:
     str: The path to the cleaned PDF file.
     """
-    cleaned_file = f"{os.path.splitext(file)[0]}_cleaned.pdf"
+    if not os.path.exists(prefix):
+        os.makedirs(prefix)
+    cleaned_file = f"{prefix}{os.path.splitext(file)[0]}_cleaned.pdf"
     with pikepdf.Pdf.open(file) as pdf:
         for page in pdf.pages:
             content = page.extract_text()
@@ -140,7 +144,7 @@ class PdfLoader:
         self.sherpaReader = LayoutPDFReader(llmsherpa_api_url)
         self.provider = provider
 
-    def load_pdf_documents(self) -> Union[List[LLMSherpaDocument], List[LangchainDocument]]:
+    def load_pdf_documents(self) -> Union[LLMSherpaDocument, List[LangchainDocument]]:
         """
             Loads and splits PDF documents into smaller chunks.
 
@@ -161,9 +165,9 @@ class PdfLoader:
                                                      strategy=self.strategy,
                                                      llmsherpa_api_url=self.llmsherpa_api_url)
                     docs.extend(pdf_reader.load())
+                    return docs
                 case "llmsherpa":
                     pdf_reader = self.sherpaReader
-                    docs.extend(pdf_reader.read_pdf(file))
+                    return pdf_reader.read_pdf(file)
                 case _:
                     raise ValueError(f"Unsupported provider: {self.provider}")
-        return docs

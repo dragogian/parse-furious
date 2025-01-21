@@ -59,7 +59,7 @@ def create_knowledge_graph(docs: list[GraphDocument], kg_url, kg_username, kg_pa
     graph_db.add_graph_documents(docs)
     return
 
-prompt = ChatPromptTemplate.from_messages(
+extraction_chain_prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system", "You are a top-tier algorithm able to extract information from a document about the following entities: {entities}. Be clear and concise when filling the informations!"
@@ -86,4 +86,4 @@ def create_info_extraction_chain(llm, output_class: Type[BaseModel]) -> Runnable
     Example:
     extraction_chain.invoke({"document": document, "entities": entities})
     """
-    return prompt | llm.with_structured_output(output_class)
+    return extraction_chain_prompt | llm.with_structured_output(output_class)
