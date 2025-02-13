@@ -1,0 +1,132 @@
+{
+    "Ristorante\"ArmoniaUniversale\"": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 0,
+            "section_title": "Ristorante \"Armonia Universale\""
+        },
+        "page_content": "Ristorante \"Armonia Universale\"",
+        "type": "Document"
+    },
+    "Chef:MaestroAlessandroStellanova": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 1,
+            "section_title": "Chef: Maestro Alessandro Stellanova"
+        },
+        "page_content": "Chef: Maestro Alessandro Stellanova\n\nSu Pandora, tra le bioluminescenti foreste che vibrano al ritmo dell\\'ecosistema vivente, si erge un luogo dove gastronomia e magia si intrecciano in un\\'esperienza senza pari.\nIl Maestro Stellanova, un viaggiatore dimensionale il cui passato è avvolto nel mistero delle stelle, ha scelto questo pianeta per manifestare la sua arte culinaria che si estende ben oltre i confini del conosciuto.\n\nLa sua cucina va oltre il semplice concetto culinario.\nCon la sua unica sensibilità psionica (tramite la licenza Psionica I), il Maestro discerne le emozioni profonde di ogni ospite, trasformandole in sapori che evocano memorie ancestrali e sogni latenti.\nLe sue creazioni galleggiano nell\\'aria, sostenute da campi di forza invisibili, mentre energie magnetiche plasmano una fusione perfetta di ingredienti apparentemente inconciliabili (possibili grazie alle licenze Gravitazionale I e Magnetica I).\n\nCome un direttore d\\'orchestra cosmico, Stellanova manipola otto stati di materia culinaria in simultanea, dando vita a piatti che esistono in perfette varianti multiple.\nQuesta padronanza delle arti quantistiche (acquisita con la licenza Quantistica 8) dà vita a creazioni mozzafiato: in un solo boccone si può trovare l\\'essenza di otto interpretazioni diverse di un unico ingrediente, ognuna armoniosamente calibrata per riecheggiare con le aspettative di chi lo gusta.\n\nLa luce (controllata con una licenza Luce II), partner onnipresente nelle sue composizioni, diventa ingrediente essenziale tanto quanto le spezie più esotiche.\nI piatti non solo deliziano il palato, ma affascinano lo sguardo con giochi cromatici che narrano storie di mondi remoti e civiltà inesplorate.\n\nGrazie alla sua civilà che ha raggiunto un quinto grado di influenza di livello tecnologico, il Maestro attinge a tecniche culinarie da civiltà situate oltre le stelle, intrecciandole con la tradizione terrestre per creare un\\'armonia che trascende i confini planetari.\nOgni piatto diventa un ponte tra culture diverse, un momento in cui connettersi attraverso il linguaggio universale del cibo.\n\nNel suo ristorante, ogni pasto è un viaggio attraverso le meraviglie dell\\'universo, un\\'opportunità per esplorare l\\'interconnessione fondamentale tra tutte le forme di vita.\nNon è solo nutrimento per il corpo, ma un\\'esperienza che arricchisce l\\'anima e spalanca la mente verso nuovi orizzonti gastronomici.",
+        "type": "Document"
+    },
+    "Menu": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 2,
+            "section_title": "Menu"
+        },
+        "page_content": "Menu",
+        "type": "Document"
+    },
+    "SinfoniaCosmica:VersionePizza": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 3,
+            "section_title": "Sinfonia Cosmica: Versione Pizza"
+        },
+        "page_content": "Sinfonia Cosmica: Versione Pizza\n\nIngredienti\n\nPolvere di Pulsar Radici di Gravità Radici di Singolarità Spaghi del Sole Riso di Cassandra Farina di Nettuno Funghi Orbitali Spezie Melange Cioccorane\n\nTecniche\n\nAmalgamazione Sintetica Molecolare Cottura a Vapore con Flusso di Particelle Isoarmoniche Impasto Gravitazionale Vorticoso",
+        "type": "Document"
+    },
+    "GalassiadiSaporeInterstellare": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 4,
+            "section_title": "Galassia di Sapore Interstellare"
+        },
+        "page_content": "Galassia di Sapore Interstellare\n\nIngredienti\n\nFrammenti di Supernova Colonia di Mycoflora Foglie di Nebulosa Carne di Mucca Fibra di Sintetex Carne di Kraken Spaghi del Sole Nettare di Sirena Spezie Melange Burrobirra\n\nTecniche\n\nImpasto a Campi Magnetici Dualistici\n\nDecostruzione Magnetica Risonante\n\nAmalgamazione Sintetica Molecolare\n\nBollitura Infrasonica Armonizzata",
+        "type": "Document"
+    },
+    "SinfoniaCosmicadiSapore": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 5,
+            "section_title": "Sinfonia Cosmica di Sapore"
+        },
+        "page_content": "Sinfonia Cosmica di Sapore\n\nIngredienti\n\nShard di Materia Oscura Carne di Xenodonte Fibra di Sintetex Farina di Nettuno Granuli di Nebbia Arcobaleno Nduja Fritta Tanto Ravioli al Vaporeon\n\nTecniche\n\nIdro-Cristallizzazione Sonora Quantistica Saltare in Padella Realtà Energetiche Parallele Sferificazione tramite Matrici Biofotiche Affumicatura a Stratificazione Quantica Sferificazione con Campi Magnetici Entropici",
+        "type": "Document"
+    },
+    "SinfoniaCosmicadiLuminiscenzeeContrasti": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 6,
+            "section_title": "Sinfonia Cosmica di Luminiscenze e Contrasti"
+        },
+        "page_content": "Sinfonia Cosmica di Luminiscenze e Contrasti\n\nUova di Fenice Carne di Drago Carne di Kraken Amido di Stellarion Riso di Cassandra Spezie Melange Slurm\n\nTecniche\n\nEbollizione Magneto-Cinetica Pulsante Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "type": "Document"
+    },
+    "SinfoniaCosmicainOttoMovimenti": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 7,
+            "section_title": "Sinfonia Cosmica in Otto Movimenti"
+        },
+        "page_content": "Sinfonia Cosmica in Otto Movimenti\n\nIngredienti\n\nFrammenti di Supernova Foglie di Nebulosa Alghe Bioluminescenti Fibra di Sintetex Carne di Mucca Gnocchi del Crepuscolo Lacrime di Andromeda Spezie Melange\n\nTecniche\n\nSferificazione con Campi Magnetici Entropici Saltare in Padella Classica Bollitura Termografica a Rotazione Veloce Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "type": "Document"
+    },
+    "PortaleCosmico:SinfoniadiGnocchidelCrepuscoloconEssenzadiTachionieSfumaturediFenice": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 8,
+            "section_title": "Portale Cosmico: Sinfonia di Gnocchi del Crepuscolo con Essenza di Tachioni e Sfumature di Fenice"
+        },
+        "page_content": "Portale Cosmico: Sinfonia di Gnocchi del Crepuscolo con Essenza di Tachioni e Sfumature di Fenice\n\nIngredienti\n\nShard di Materia Oscura Uova di Fenice Gnocchi del Crepuscolo Plasma Vitale Essenza di Tachioni\n\nTecniche\n\nBollitura Infrasonica Armonizzata\n\nCottura a Vapore Ecodinamico Bilanciato\n\nDecostruzione Magnetica Risonante Cottura a Vapore con Flusso di Particelle Isoarmoniche\n\nAffumicatura Polarizzata a Freddo Iperbarico",
+        "type": "Document"
+    },
+    "SinfoniaCosmica:VersioneData": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 9,
+            "section_title": "Sinfonia Cosmica: Versione Data"
+        },
+        "page_content": "Sinfonia Cosmica: Versione Data\n\nIngredienti\n\nPolvere di Stelle Radici di Gravità Colonia di Mycoflora Fusilli del Vento Pane degli Abissi Essenza di Tachioni\n\nTecniche\n\nCottura a Vapore Termocinetica Multipla\n\nAffumicatura a Stratificazione Quantica\n\nFermentazione Psionica Energetica",
+        "type": "Document"
+    },
+    "SinfoniaCosmologica": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 10,
+            "section_title": "Sinfonia Cosmologica"
+        },
+        "page_content": "Sinfonia Cosmologica\n\nIngredienti\n\nShard di Materia Oscura Radici di Gravità Foglie di Nebulosa Biscotti della Galassia Essenza di Vuoto\n\nTecniche\n\nAffettamento a Pulsazioni Quantistiche\n\nCottura Sottovuoto Pulsar Magnetica\n\nMarinatura Sotto Zero a Polarità Inversa\n\nGrigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "type": "Document"
+    },
+    "SinfoniaCosmicadiArmonieTerrestrieCelesti": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 11,
+            "section_title": "Sinfonia Cosmica di Armonie Terrestri e Celesti"
+        },
+        "page_content": "Sinfonia Cosmica di Armonie Terrestri e Celesti\n\nIngredienti\n\nCristalli di Memoria Uova di Fenice Carne di Kraken Fibra di Sintetex Granuli di Nebbia Arcobaleno Lacrime di Andromeda Spezie Melange\n\nTecniche\n\nSferificazione tramite Matrici Biofotiche Idro-Cristallizzazione Sonora Quantistica Affettamento a Pulsazioni Quantistiche\n\nCottura Sottovuoto Pulsar Magnetica",
+        "type": "Document"
+    },
+    "CosmoSfericodiSogniRigenerativi": {
+        "id": null,
+        "metadata": {
+            "source": "./resources/demo/L infinito in un Boccone_cleaned.pdf",
+            "section_number": 12,
+            "section_title": "Cosmo Sferico di Sogni Rigenerativi"
+        },
+        "page_content": "Cosmo Sferico di Sogni Rigenerativi\n\nIngredienti\n\nRadici di Gravità Baccacedro Lattuga Namecciana Teste di Idra Carne di Xenodonte Farina di Nettuno Nettare di Sirena\n\nTecniche\n\nSferificazione con Campi Magnetici Entropici Cottura a Vapore Ecodinamico Bilanciato Congelamento Bio-Luminiscente Sincronico",
+        "type": "Document"
+    }
+}

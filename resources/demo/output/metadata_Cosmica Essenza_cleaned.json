@@ -1,0 +1,133 @@
+{
+    "Restaurant": "Cosmica Essenza",
+    "Chef": {
+        "Name": "Aurelio \"Starweaver\" Celestini",
+        "Licenses": [
+            {
+                "Name": "Sensibilità Psionica",
+                "Level": "V"
+            },
+            {
+                "Name": "Eccellenza Quantica",
+                "Level": "9"
+            },
+            {
+                "Name": "Controllo Gravitazionale",
+                "Level": "III"
+            },
+            {
+                "Name": "Antimateria",
+                "Level": "I"
+            },
+            {
+                "Name": "LTK",
+                "Level": "III"
+            },
+            {
+                "Name": "Luce",
+                "Level": "II"
+            }
+        ]
+    },
+    "Dishes": [
+        {
+            "Name": "Risveglio Cosmico: Una Sinfonia di Sapori Universali",
+            "Ingredients": [
+                "Shard di Prisma Stellare",
+                "Lattuga Namecciana",
+                "Carne di Mucca",
+                "Fibra di Sintetex",
+                "Amido di Stellarion",
+                "Riso di Cassandra",
+                "Muffa Lunare",
+                "Erba Pipa"
+            ],
+            "Techniques": [
+                "Grigliatura Psionica Dinamica Ritmica",
+                "Cottura a Vapore Ecodinamico Bilanciato"
+            ]
+        },
+        {
+            "Name": "Galassia Incantata: Un Viaggio Attraverso l'Infinito",
+            "Ingredients": [
+                "Shard di Materia Oscura",
+                "Carne di Xenodonte",
+                "Teste di Idra",
+                "Fibra di Sintetex",
+                "Riso di Cassandra",
+                "Pane di Luce",
+                "Pane degli Abissi",
+                "Nduja Fritta Tanto"
+            ],
+            "Techniques": [
+                "Grigliatura Psionica Dinamica Ritmica",
+                "Cottura a Forno Dinamico Inversionale",
+                "Cottura a Vapore Risonante Simbiotico"
+            ]
+        },
+        {
+            "Name": "Sinfonia Celestiale di Echi Galattici",
+            "Ingredients": [
+                "Fibra di Sintetex",
+                "Carne di Balena spaziale",
+                "Carne di Kraken",
+                "Lacrime di Unicorno"
+            ],
+            "Techniques": [
+                "Cottura Idrodinamica Autoregolante",
+                "Fermentazione Psionica Energetica",
+                "Affettamento a Pulsazioni Quantistiche",
+                "Decostruzione Atomica a Strati Energetici",
+                "Cottura con Microonde Entropiche Sincronizzate"
+            ]
+        },
+        {
+            "Name": "Porta Celestiale alle Stelle",
+            "Ingredients": [
+                "Vero Ghiaccio",
+                "Liane di Plasmodio",
+                "Carne di Kraken",
+                "Teste di Idra",
+                "Funghi dell’Etere",
+                "Erba Pipa"
+            ],
+            "Techniques": [
+                "Bollitura Entropica Sincronizzata",
+                "Cottura Sottovuoto Frugale Energeticamente Negativa",
+                "Marinatura a Infusione Gravitazionale"
+            ]
+        },
+        {
+            "Name": "Sinfonia Celeste dell'Equilibrio Temporale",
+            "Ingredients": [
+                "Polvere di Crononite",
+                "Carne di Balena spaziale",
+                "Carne di Mucca",
+                "Uova di Fenice",
+                "Funghi dell’Etere",
+                "Spezie Melange"
+            ],
+            "Techniques": [
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Cryo-Tessitura Energetica Polarizzata",
+                "Sinergia Elettro-Osmotica Programmabile"
+            ]
+        },
+        {
+            "Name": "Il Risveglio delle Stelle",
+            "Ingredients": [
+                "Polvere di Stelle",
+                "Baccacedro",
+                "Carne di Balena spaziale",
+                "Biscotti della Galassia",
+                "Pane degli Abissi",
+                "Muffa Lunare"
+            ],
+            "Techniques": [
+                "Marinatura a Infusione Gravitazionale",
+                "Marinatura tramite Reazioni d'Antimateria Diluite"
+            ]
+        }
+    ],
+    "Planet": "Tatooine"
+}

@@ -1,0 +1,169 @@
+{
+    "Restaurant": "Ristorante \"Armonia Universale\"",
+    "Chef": {
+        "Name": "Maestro Alessandro Stellanova",
+        "Licenses": [
+            {
+                "Name": "Psionica",
+                "Level": "I"
+            },
+            {
+                "Name": "Gravitazionale",
+                "Level": "I"
+            },
+            {
+                "Name": "Magnetica",
+                "Level": "I"
+            },
+            {
+                "Name": "Quantistica",
+                "Level": "8"
+            },
+            {
+                "Name": "Luce",
+                "Level": "II"
+            }
+        ]
+    },
+    "Dishes": [
+        {
+            "Name": "Sinfonia Cosmica di Sapore",
+            "Ingredients": [
+                "Shard di Materia Oscura",
+                "Carne di Xenodonte",
+                "Fibra di Sintetex",
+                "Farina di Nettuno",
+                "Granuli di Nebbia Arcobaleno",
+                "Nduja Fritta Tanto",
+                "Ravioli al Vaporeon"
+            ],
+            "Techniques": [
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Saltare in Padella Realtà Energetiche Parallele",
+                "Sferificazione tramite Matrici Biofotiche",
+                "Affumicatura a Stratificazione Quantica",
+                "Sferificazione con Campi Magnetici Entropici"
+            ]
+        },
+        {
+            "Name": "Sinfonia Cosmica di Luminiscenze e Contrasti",
+            "Ingredients": [
+                "Uova di Fenice",
+                "Carne di Drago",
+                "Carne di Kraken",
+                "Amido di Stellarion",
+                "Riso di Cassandra",
+                "Spezie Melange",
+                "Slurm"
+            ],
+            "Techniques": [
+                "Ebollizione Magneto-Cinetica Pulsante",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "Name": "Sinfonia Cosmica in Otto Movimenti",
+            "Ingredients": [
+                "Frammenti di Supernova",
+                "Foglie di Nebulosa",
+                "Alghe Bioluminescenti",
+                "Fibra di Sintetex",
+                "Carne di Mucca",
+                "Gnocchi del Crepuscolo",
+                "Lacrime di Andromeda",
+                "Spezie Melange"
+            ],
+            "Techniques": [
+                "Sferificazione con Campi Magnetici Entropici",
+                "Saltare in Padella Classica",
+                "Bollitura Termografica a Rotazione Veloce",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "Name": "Portale Cosmico: Sinfonia di Gnocchi del Crepuscolo con Essenza di Tachioni e Sfumature di Fenice",
+            "Ingredients": [
+                "Shard di Materia Oscura",
+                "Uova di Fenice",
+                "Gnocchi del Crepuscolo",
+                "Plasma Vitale",
+                "Essenza di Tachioni"
+            ],
+            "Techniques": [
+                "Bollitura Infrasonica Armonizzata",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Decostruzione Magnetica Risonante",
+                "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+                "Affumicatura Polarizzata a Freddo Iperbarico"
+            ]
+        },
+        {
+            "Name": "Sinfonia Cosmica: Versione Data",
+            "Ingredients": [
+                "Polvere di Stelle",
+                "Radici di Gravità",
+                "Colonia di Mycoflora",
+                "Fusilli del Vento",
+                "Pane degli Abissi",
+                "Essenza di Tachioni"
+            ],
+            "Techniques": [
+                "Cottura a Vapore Termocinetica Multipla",
+                "Affumicatura a Stratificazione Quantica",
+                "Fermentazione Psionica Energetica"
+            ]
+        },
+        {
+            "Name": "Sinfonia Cosmologica",
+            "Ingredients": [
+                "Shard di Materia Oscura",
+                "Radici di Gravità",
+                "Foglie di Nebulosa",
+                "Biscotti della Galassia",
+                "Essenza di Vuoto"
+            ],
+            "Techniques": [
+                "Affettamento a Pulsazioni Quantistiche",
+                "Cottura Sottovuoto Pulsar Magnetica",
+                "Marinatura Sotto Zero a Polarità Inversa",
+                "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+            ]
+        },
+        {
+            "Name": "Sinfonia Cosmica di Armonie Terrestri e Celesti",
+            "Ingredients": [
+                "Cristalli di Memoria",
+                "Uova di Fenice",
+                "Carne di Kraken",
+                "Fibra di Sintetex",
+                "Granuli di Nebbia Arcobaleno",
+                "Lacrime di Andromeda",
+                "Spezie Melange"
+            ],
+            "Techniques": [
+                "Sferificazione tramite Matrici Biofotiche",
+                "Idro-Cristallizzazione Sonora Quantistica",
+                "Affettamento a Pulsazioni Quantistiche",
+                "Cottura Sottovuoto Pulsar Magnetica"
+            ]
+        },
+        {
+            "Name": "Cosmo Sferico di Sogni Rigenerativi",
+            "Ingredients": [
+                "Radici di Gravità",
+                "Baccacedro",
+                "Lattuga Namecciana",
+                "Teste di Idra",
+                "Carne di Xenodonte",
+                "Farina di Nettuno",
+                "Nettare di Sirena"
+            ],
+            "Techniques": [
+                "Sferificazione con Campi Magnetici Entropici",
+                "Cottura a Vapore Ecodinamico Bilanciato",
+                "Congelamento Bio-Luminiscente Sincronico"
+            ]
+        }
+    ],
+    "Planet": "Pandora"
+}

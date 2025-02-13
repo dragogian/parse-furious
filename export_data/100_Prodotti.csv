@@ -1,0 +1,501 @@
+tp_record_share,compagnia_exp,compagnia_ania,ramo,descrizione_ramo,codice_prodotto,descrizione_prodotto,filename,data_elaborazione_file,mandato
+100,4,035,1,Auto,00000,PRODOTTO PREVENIENTE DA CONVERSIONE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01001,RITIRO PATENTE ARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01004,FURTO INCENDIO ARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01005,VEICOLI A MOTORE VECCHIO STAMPATO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01006,NAUTICA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01007,CICLOMOTORI E MACCHINE AGRICOLE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01008,VEICOLI A MOTORE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01009,VEICOLI A MOTORE DAL 01-05-1996,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01010,GARE E COMPETIZIONI SPORTIVE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01011,AUTOREALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01013,AUTOREALE EVOLUZIONE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01014,FUORICLASSE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01015,LIBRO MATRICOLA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01016,POLIZZE 5 GIORNI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01017,POLIZZE ARD CUMULATIVE A VEICOLO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01018,CUMULATIVE GENERICHE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01019,POLIZZE ARD CUMULATIVE A MISSIONE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01020,POLIZZE ARD CUMULATIVE A KM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01021,AUTO STORICHE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01022,AUTOREALE CAMPER,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01023,AUTOMIA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01024,NUOVO PRODOTTO UNICO NAUTICA (SOLO ITA),GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01025,AUTOSTORICHE PRODOTTO UNICO (SOLO ITA),GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01026,CAMPER PRODOTTO UNICO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01027,LIBRO MATRICOLA - AUTOMIA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01028,LM - IN PRIMA CLASSE SKIPPER (SOLO ITA),GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01029,CONTACHILOMETRI REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01030,SALVA PATENTE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01031,Libro matricola - Premio Flat LM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01032,AUTOMIA REALE CARGO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01033,COASSI DELEGA ALTRUI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01034,CONTRATTO BASE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01035,PRODOTTO CONTENITORE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01036,LIBRO MATRICOLA - COASSI DELEGA ALTRUI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01037,LIBRO MATRICOLA - PARTICOLARI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01101,PLURIMA RCA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01102,PLURIMA RCA E ARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01111,PLURIMA ARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01199,PLURIMA DELEGA ALTRI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01301,KASKO KM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01302,KASKO ARD KM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01303,CONTACHILOMETRI REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01510,CONVENZIONE RENAULT ANTE 01-10-2000,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01610,CONVENZIONI RENAULT,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01620,CONVENZIONI NISSAN,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,1,Auto,01626,AUTOMIA REALE POCKET,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000001,Assicurarsi Reale - Rimborso Spese Durata Limitata,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000002,Assicurarsi Reale - Rimborso Spese Vita Intera,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000003,Assicurarsi Reale - Long Term Care,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000004,Globale Fabbricati,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000005,Incendio R.O. Civile - Agricolo,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000006,Incendio R.O. Commerciale- Piccola Industria - Ris,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000007,Azienda Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000008,Azienda Reale - Diaria,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000009,Azienda Reale - Catastrofali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000010,Cauzioni Meccanizzate,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000011,RC Generica,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000012,Tutti i Rischi del Costruttore,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000013,Unica Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000014,Ritiro Prodotti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000015,Leasing Generica,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000016,In Viaggio,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000017,Soggiorno Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000018,Scudo Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000019,Agrireale 1999,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000020,Buon Viaggio Conducente Autovettura e Ciclomotore,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000021,Enti Pubblici,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000022,Buon Viaggio Reale - Guidatore/Trasportati,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000023,Buon Viaggio Reale - Infortuni Aeronautici,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000024,Buon Viaggio Reale - Globale Viaggi,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000025,Casamia 2004,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000026,Deposito Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000027,Electronica Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000028,In Commercio Reale 1999,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000029,Casamia Francia,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000030,Protagonista Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000031,RC Insegnante e Personale Scolastico,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000032,Deposito  Reale - Catastrofali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000033,Deposito Reale - Diaria,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000034,Azienda Reale - RC Prodotti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000035,Tutela Legale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000036,Garanzia di Fornitura,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000037,RC Proprietario Fabbricato,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000038,"RC Negozi, Uffici, Esercizi Vari",GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000039,Assistenza,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000040,Responsabilita' Civile Ambientale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000041,RC Professionista,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000042,RC Imprese Edili,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000043,RC Animali E Cose,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000044,RC Convenzione Italease,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000045,RC Cacciatori,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000046,RC Prodotti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000047,Casamia Ed. 05/95,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000048,RC Terzi e Dipendenti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000049,RC Ingegneri-Architetti-Geometri,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000050,RC Consulenti Haccp,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000051,RC Professioni Sanitarie,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000052,RC Commercialista,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000053,RC Progettista Merloni,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000054,Responsabilita' Ambientale - Insediamenti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000055,Elisa - Rischio Hiv,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000056,Infortuni Cumulativa,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000057,Tutti i Rischi del Costruttore - Postuma Legge 210,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000058,Rimborso Spese Malattie Collettive,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000059,Variazione macchina da scrivere non piu' a catalogo,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000060,Danni Indiretti Polizze Guasti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000061,Tutti i Rischi del Costruttore - Tutela Fabbricati,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000062,Convenzioni,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000063,Danni Indiretti Polizze Incendio,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000064,Postuma Rimpiazzo Opere,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000065,Tutti i Rischi del Costruttore - Postuma,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000066,Furti Generica,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000067,Leasing Beni Strumentali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000068,Furti Banche,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000069,Furti Gioiellieri Orefici,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000071,Salute Facile Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000072,Furti Carte Di Credito,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000073,Delega Terzi,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000074,Multirischio Generica INC/FUR/RC/CRI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000075,ReAttiva,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000076,In Commercio Reale 2009,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000077,Fantasia Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000078,Leasing Immobiliare,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000079,Infortuni Aeronautici,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000080,Agrireale - Rischi  Catastrofali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000081,Polizza Pioppi,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000082,Delega Altrui,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000083,Domus Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000084,Guasti Macchine,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000085,Tutti I Rischi Di Montaggio,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000086,Professione Artigiano Trasporti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000087,Rischi Industriali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000088,Rischi Industriali - Rischi Catastrofali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000089,All Risk 2012,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000090,Delega Altrui Trasporti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000091,Delega Altrui Cauzioni,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000092,Mortalita bestiame,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000093,Perdite Pecuniarie,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000094,Ecologica Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000095,Sistema Salute - Invalidita Permanente,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000096,Sistema Salute - Indennitaria,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000097,Long Term Care Collettive,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000098,Tris Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000099,Serre,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000100,Granaglie,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000101,Globale Fabbricati N-1,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000102,Infortuni Individuale Ed. 12/98,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000103,Azienda Reale Ed. preced.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000104,Azienda Reale - Catastrofali Ed. preced.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000105,Azienda Reale - Diaria Ed. preced.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000106,Professione Artigiano Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000107,Per Te Salute Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000108,Contenitore per Conversione,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000109,Certificato Viaggio,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000110,Unita' da diporto,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000111,Mostre D'Arte Ed Esposizioni,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000112,Secur Merce Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000113,Trasporto Merci o Valori (abbonamento)\u003b,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000114,Aeromobili,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000115,RC Vettore Stradale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000116,Corpi Marittimi,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000117,RC Aeronautica,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000118,Trasporti Generica,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000119,Merci Trasportate A Mezzo Autocarro,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000120,Cauzioni Non Meccanizzate,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000121,Professionista Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000122,Protezione Ufficio Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000123,Rimborso spese odontoiatriche,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000124,Composita Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000126,Cauzioni Legge 210,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000127,Tutela Legale Az/Art/Prof,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000128,CASAMIA 2012,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000129,COMPOSITA REALE 2013,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000130,ESTENSIONE CATASTROFALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000131,Tutti i Rischi del Costruttore Appalti Pubblici,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000132,UNICA REALE 2013,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000133,Azienda Reale con multiubicazione,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000134,Benefit Salute,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000135,All Risk 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000137,PER TE SALUTE REALE 2014,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000138,Tutti i Rischi del Costruttore Postuma 2014,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000139,IN COMMERCIO 2014,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000140,AGRIREALE 2014,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000141,Secur Merce 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000142,GLOBALE FABBRICATI 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000143,"RC Industria, Artigianato e Servizi",GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000144,Family Care Pro,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000145,SI VIAGGIARE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000146,Unica Reale 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000147,PROFESSIONISTA REALE 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000148,LEASING BENI STRUMENTALI 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000149,SALUTE FACILE WELLNESS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000150,LEASING IMMOBILIARE 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000151,REALMENTE IN SALUTE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000152,Cauzioni Non Meccanizzate 2015,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000153,In Buone Acque Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000154,Cyber risk reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000155,AZIENDA REALE 2016,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000156,CASA MIA 2016,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000157,Responsabilita' Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000158,Professionista Reale 2017,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000159,Realmente vicini,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000160,Realmente protetti,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000163,RealmenteInSalute Forever,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000164,Formula extraricovero,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000165,Cyber Risk Reale 2.0,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000166,Realmente Amici,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000167,Azienda Reale 2021,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000168,Globale Fabbricati 2022,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000169,Pedala Start&Stop,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000170,Ecologica Reale 2023,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000171,AgriReale 2024,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000172,Tutti i Rischi del Costruttore - Postuma Legge 210 (DM 154/2022),GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000174,Realmente in Salute 2023,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000175,SalvaAcconto Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000176,Credito Light Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000177,Infortuni Cumulativa 2024,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000178,Realmente Vicini 2024,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000179,Base per prd DEMO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000180,Digital Platform enti terzo settore,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,000221,Delega Altrui New,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,005001,Benefit salute ed. 2014,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,005002,Tailor Made,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010007,MAXICARE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010008,REALMENTE CON TE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010013,BENEFIT SALUTE SPECIAL,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010014,UNICA REALE DRIVER,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010015,Pedala protetto,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010016,Infortuni professionista reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010017,Offerta infortuni Avvocati,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010019,Cyber Family Reale,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010021,RealmenteInSalute Pop,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010022,Protezione reddito,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010023,Assistenti Sociali,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010024,Responsabilita' Civile D&O,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,2,Rami Elementari,010026,RealmenteInSalute DayByDay,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,001,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,002,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,003,RXG,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,004,ESCLUSIVA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,005,CAPITALE REALE FONDO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,006,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,007,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,008,ESCLUSIVA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,009,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,010,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,011,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,012,CAPITALIZZAZIONE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,013,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,014,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,015,CAPITALIZZAZIONE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,016,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,017,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,018,CAPITAL SPECIALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,019,ESCLUSIVA REALE S.O.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,020,CRESCITAREALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,021,CRESCITAREALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,022,CRESCITAREALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,023,RISERVA REALE E.S.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,024,PATRIMONIO CAUZIONI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,025,ESCLUSIVA REALE EXTR,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,026,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,027,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,028,CAPITALE AZIENDA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,029,CAPITALE AZIENDA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,030,VALUTA REALE S.P.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,031,CAPITALESICURO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,032,SICUREZZA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,033,PATRIMONIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,034,ECCELLENZA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,035,SICUREZZA REALE S.L.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,036,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,037,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,038,SICUREZZA REALE UNO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,039,CAPITALE SICURO ORO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,040,CAP.REALE PLATINUM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,041,CAPITALE REALE PLUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,042,CAPITALE AZIENDA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,043,PATRIMONIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,044,CAP.REALE2 PLATINUM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,045,CAP.REALE PLAT.PLUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,046,CAPITALE AZIENDA 22,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,047,CAP.R.PLATINUM EXCL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,048,CAP. REALE PLAT. PRI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,075,VALUTA REALE AIL,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,076,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,081,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,085,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,086,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,090,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,091,AIL,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,092,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,093,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,094,Capitaliz. Ordinarie,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,096,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,097,CAPITALE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,098,AIL SERIE SPECIALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,099,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,100,RITMICA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,101,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,102,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,103,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,104,PREVI PLUS AZ. REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,105,SPAZIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,106,PROFILO PRIVATE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,107,CEDOLAPIU' REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,108,ESCLUSIVA PER TE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,109,PROFESSIONERISPARMIO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,110,SICURO REALE PRIVATE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,111,PREVI AZIENDA ORO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,112,SICUROREALE PLATINUM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,113,SICURO REALE UNO P.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,114,GARANZIA BENEFICI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,115,FORMULA RISPARMIO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,116,SICURO REALE UNO G.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,117,FIDEURAM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,118,INTESA SAN PAOLO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,119,PROTEZIONE REALE G.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,120,REALMENTE AMORE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,121,REALMENTE AMORE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,122,QUOTA CONTROLLATA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,122A,REALE QUOTA CONTROLLATA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,123,SICURO R1 GOLD EXCL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,124,OPPORTUNITA' R. DUE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,125,SICURO R. DUE GOLD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,126,OPPORTUNITA' R. UNO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,127,MULTIPOWER ENERGY,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,128,MULTIPOWER ENRGY,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,129,MULTIRAMO PR I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,130,MULTIPOWER R. PLUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,131,MULTIPOWER REALE PR,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,132,MULTIPOWER R.PLUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,133,MULTIPOWER REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,134,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,137,MULTIPOWER ENERGY,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,138,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,139,MULTIRAMO PR III,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,140,MULTIPOWER R.PLUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,141,MULTIPOWER REALE PR,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,142,MULTIPOWER REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,143,PREVI AZIENDA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,144,CRESCITA EXCLUSIVE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,145,PREVI PENSIONE REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,146,PREVI PENS. REALE 1,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,147,PRIVILEGIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,150,MULTIRAMO I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,151,MULTIRAMO I REINV,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,152,MULTIPOWER REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,153,MULTIRAMO I SPOT,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,154,MULTIPOWER REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,155,MULTIRAMO REALE R. I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,156,MULTIRAMO AZZOAGLIO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,157,MULTIPOWER DYNAMO C.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,158,MULTIPOWER DYNAMO C.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,159,MULTIPOWER OPEN PR.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,160,MULTIRAMO III,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,161,MULTIRAMO III REINV,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,162,MULTIPOWER REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,163,MULTIRAMO III SPOT,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,164,PRIVILEGIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,165,MULTIRAMO REALE III,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,166,MULTIRAMO AZZOAGLIO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,167,MULTIPOWER DYNAMO C.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,169,MULTIPOWER OPEN PR.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,170,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,171,VANTAGGIO REALE E.L.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,172,VITA INT. NON RIVAL.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,173,VITA INTERA VALUTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,174,VANTAGGIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,175,REALMIDA 1,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,176,REALMIDA 2,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,177,VANTAGGIO ESCLUSIVA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,182,VALUTA REALE V.I.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,183,VALUTA REALE V.I.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,184,MIO PROFILO ED SPEC.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,188,VALUTA REALE V.I.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,189,TARIFFA PREST.LIB.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,190,REALE SKIPPER,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,191,REALE SKIPPER,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,192,VITA INTERA VALUTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,193,REALE QUOTA ATTIVA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,194,REALE QUOTA ATTIVA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,195,QUOTA ATTIVA PRIVATE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,198,VITA INTERA VALUTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,200,PRIVILEGIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,201,PRIVILEGIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,204,VALORE VITA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,205,VALORE VITA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,206,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,207,VAL.VITA DECRESCENTE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,207M,VALORE VITA REALE FINANZIAMENTI - PREMIO ANNUO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,208,VALORE VITA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,209,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,212,VALORE VITA CASA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,212B,VALORE VITA REALE FINANZIAMENTI - PREMIO UNICO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,214,VALORE VITA: MUTUI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,216,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,218,TCM MUTUI E PRESTITI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,219,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,220,VVR ANDI VENETO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,221,VVR - AGCM,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,224,VALORE VITA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,225,CAPITALE CASO MORTE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,226,CAPITALE CASO MORTE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,228,TARIFFA DA RICICLARE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,229,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,230,VALORE VITA STANDARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,231,VALORE VITA STANDARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,232,VALORE VITA STANDARD,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,233,VALORE VITA TOP,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,234,VALORE VITA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,235,FAMILY CARE LIFE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,236,FAMILY CARE LIFE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,237,VALORE VITA WELLNESS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,238,VALORE VITA WELLNESS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,270,PROVA CQP,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,281,VALORE VITA DRIVER,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,282,VALORE VITA LIGHT,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,282C,VALORE VITA REALE LIGHT,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,283,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,284,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,285,TCM SPOT 01 2013,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,286,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,289,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,292,TARIFFA F.P. AZIMUT,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,294,TUTELA FAMIGLIA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,296,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,297,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,298,TCM INTEGRA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,300,MISTA INDICIZZATA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,301,MISTA INDICIZZATA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,302,MISTA VALUTA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,303,MISTA VALUTA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,304,MISTA ADEGUABILE ECU,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,305,MISTA INDICIZZATA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,306,MISTA INDICIZZATA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,307,MISTA VALUTA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,308,MISTA VALUTA REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,309,Miste ramo I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,310,F.I.P. CENTO STELLE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,311,GARANZIA BENEFICI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,312,MISTA 100% REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,313,MISTA DOTALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,314,SPAZIO REALE P.U.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,315,MISTA 100% REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,316,MISTA 100% REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,317,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,318,MISTA 100% REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,319,Miste ramo I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,320,F.I.P. CENTO STELLE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,321,MISTA NON RIVALUTAB.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,322,MISTA NON RIVALUTAB.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,323,MISTA NON RIVALUTAB.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,324,REALESKIPPERPROTETTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,325,"MISTA + 2,5%",GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,326,SPAZIO REALE P.R.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,327,MISTA COSTO VITA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,328,SPAZIO PROSP.GARANT.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,329,SPAZIO PROSP.GARANT.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,330,SPAZIO PROSP.GARANT.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,331,MISTA PREMIO DECRESC,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,332,MISTA PREMIO DECRESC,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,333,MISTA PREMIO DECRESC,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,334,REALESKIPPERPROTETTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,335,MISTA NON RIVALUTAB.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,336,Miste ramo I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,337,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,338,CAP. LIB. GARANTITO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,339,CAP. LIB. GARANTITO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,340,R.I. 2001 TITANS 4Y,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,341,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,342,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,343,I.R. EMISSIONE SPEC.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,344,I.R. EMISSIONE SPEC.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,345,REALINDEX TITANS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,346,REALINDEX TITANS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,347,REALINDEX FOCUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,348,REALINDEX FOCUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,349,TRASF. SPAZIO N.G.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,350,FONDO TESEO,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,351,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,352,,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,353,INVESTO REALE CEDOLA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,354,REALINDEX JANUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,355,REALINDEX JANUS,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,356,REALINDEX ASSOLUTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,357,REALINDEX ASSOLUTA,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,358,CAP.LIB. LINEA PROT.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,359,Miste ramo I,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,360,INVESTO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,361,INVESTO U.S.A.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,362,SPAZIO REALE P.U.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,363,SPAZIO REALE P.R.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,364,SPAZIO REALE REINV.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,365,RILANCIO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,366,SCELGO REALE,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,367,SCELGO REALE P.R.,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,368,VANTAGGIO SOCI,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,369,SPAZIO CAP. LIB. SN,GroupByBronzeToSilver_2025-01-20,2025-01-20,1
+100,4,035,3,Vita,370,REALINDEX2001 NASDAQ,GroupByBronzeToSilver_2025-01-20,2025-01-20,1

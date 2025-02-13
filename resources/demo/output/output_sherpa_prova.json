@@ -1,0 +1,2251 @@
+[
+    {
+        "bbox": [
+            57.0,
+            69.0,
+            330.15,
+            89.0
+        ],
+        "block_class": "cls_0",
+        "block_idx": 0,
+        "level": 0,
+        "page_idx": 0,
+        "sentences": [
+            "Ristorante \"Anima Cosmica\""
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            112.0,
+            149.02,
+            122.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 1,
+        "level": 1,
+        "page_idx": 0,
+        "sentences": [
+            "Chef Aurora Stellaris"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            136.0,
+            525.31,
+            188.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 2,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "Nel cuore pulsante di Pandora, dove le foreste bioluminescenti e le montagne fluttuanti si uniscono in un mosaico vibrante, emerge un gioiello culinario che fonde la magia di questo mondo alieno con l\\'eccellenza gastronomica.",
+            "L\\'Anima Cosmica, guidato dall\\'innovativa Chef Aurora Stellaris, è il vertice della cucina pandoriana, una sintesi di tradizione Na\\'vi e avanzata scienza culinaria."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            202.0,
+            528.86,
+            268.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 3,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "Il viaggio della Chef Stellaris verso la maestria culinaria iniziò in seguito a un evento trasformativo che risvegliò in lei straordinarie capacità psioniche.",
+            "Queste abilità le permettono di percepire l\\'interconnessione tra la natura rigogliosa di Pandora e gli ingredienti che utilizza.",
+            "In questo luogo incantato, i suoi strumenti di cucina diventano estensioni del suo essere, manovrati con precisione telecinetica, preparando piatti che riflettono le molteplici dimensioni di questo pianeta meraviglioso."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            282.0,
+            528.83,
+            320.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 4,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "La sua conoscenza delle forze gravitazionali si traduce nella straordinaria abilità di creare esperienze culinarie che sfidano le leggi naturali di Pandora.",
+            "Le foglie fluttuano dolcemente sopra le portate, e colature di nettare seguono traiettorie che incantano i presenti, evocando l\\'armonia dell\\'ecosistema."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            334.0,
+            526.33,
+            372.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 5,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "Il \"Menu Quantico\" dell\\'Anima Cosmica testimonia la capacità della Chef di orchestrare sedici stati quantici simultanei.",
+            "Ogni piatto è un caleidoscopio di sapori che muta in base alle emozioni e alla percezione dei commensali, un invito a un viaggio sensoriale dove ogni assaggio apre nuove realtà culinarie."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            386.0,
+            511.44,
+            438.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 6,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "Con il suo dominio sulla luce, ogni portata si trasforma in una sinfonia visiva, integrando l\\'eterea luminescenza di Pandora e immergendo il commensale in un gioco di luci e ombre.",
+            "Sfruttando la sua comprensione del tempo e dell\\'antimateria, la Chef crea momenti culinari unici, dove i sapori sembrano annullare il tempo lineare, rievocando la ciclicità e la risonanza di Pandora."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            452.0,
+            536.12,
+            490.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 7,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "All\\'Anima Cosmica, ogni esperienza gastronomica è un viaggio verso l\\'essenza di Pandora, un luogo dove le leggi del mondo si sposano con l\\'arte gastronomica.",
+            "La Chef Stellaris non si limita a creare piatti: forgia esperienze indimenticabili che catturano l\\'anima di questo straordinario pianeta."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            504.0,
+            344.79,
+            514.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 8,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "Si certifica che questo ristorante ha raggiunto le seguenti licenze:"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            132.75,
+            529.0,
+            153.23,
+            539.0
+        ],
+        "block_class": "cls_2",
+        "block_idx": 9,
+        "level": 3,
+        "page_idx": 0,
+        "sentences": [
+            "Skill"
+        ],
+        "tag": "list_item"
+    },
+    {
+        "bbox": [
+            230.2,
+            529.0,
+            261.74,
+            539.0
+        ],
+        "block_class": "cls_2",
+        "block_idx": 10,
+        "level": 3,
+        "page_idx": 0,
+        "sentences": [
+            "Livello"
+        ],
+        "tag": "list_item"
+    },
+    {
+        "bbox": [
+            58.0,
+            545.0,
+            235.51,
+            555.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 11,
+        "left": 58.0,
+        "level": 4,
+        "name": "Chef Aurora Stellaris",
+        "page_idx": 0,
+        "table_rows": [
+            {
+                "block_idx": 11,
+                "cells": [
+                    {
+                        "cell_value": "Psionica"
+                    },
+                    {
+                        "cell_value": "III"
+                    }
+                ],
+                "type": "table_data_row"
+            },
+            {
+                "block_idx": 12,
+                "cells": [
+                    {
+                        "cell_value": "Temporale"
+                    },
+                    {
+                        "cell_value": "I"
+                    }
+                ],
+                "type": "table_data_row"
+            },
+            {
+                "block_idx": 13,
+                "cells": [
+                    {
+                        "cell_value": "Gravitazionale"
+                    },
+                    {
+                        "cell_value": "I"
+                    }
+                ],
+                "type": "table_data_row"
+            },
+            {
+                "block_idx": 14,
+                "cells": [
+                    {
+                        "cell_value": "Antimateria"
+                    },
+                    {
+                        "cell_value": "I"
+                    }
+                ],
+                "type": "table_data_row"
+            },
+            {
+                "block_idx": 15,
+                "cells": [
+                    {
+                        "cell_value": "Quantistica"
+                    },
+                    {
+                        "cell_value": "16"
+                    }
+                ],
+                "type": "table_data_row"
+            },
+            {
+                "block_idx": 16,
+                "cells": [
+                    {
+                        "cell_value": "Luce"
+                    },
+                    {
+                        "cell_value": "II"
+                    }
+                ],
+                "type": "table_data_row"
+            }
+        ],
+        "tag": "table",
+        "top": 545.0
+    },
+    {
+        "bbox": [
+            58.0,
+            641.0,
+            235.51,
+            651.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 17,
+        "level": 2,
+        "page_idx": 0,
+        "sentences": [
+            "Gradi di influenza di livello tecnologico II"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            668.0,
+            109.07,
+            688.0
+        ],
+        "block_class": "cls_0",
+        "block_idx": 18,
+        "level": 0,
+        "page_idx": 0,
+        "sentences": [
+            "Menu"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            711.0,
+            290.0,
+            726.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 19,
+        "level": 1,
+        "page_idx": 0,
+        "sentences": [
+            "Nebulosa Celestiale alla Stellaris"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            57.0,
+            534.16,
+            109.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 20,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Lasciatevi trasportare in un viaggio attraverso le profondità cosmiche con la nostra \"Nebulosa Celestiale alla Stellaris\", una sinfonia culinaria che fonde la magia delle stelle con l\\'arte della cucina quantistica.",
+            "Al centro del piatto brilla un arrosto di Carne di Balena Spaziale, sapientemente cotto utilizzando microonde entropiche sincronizzate per ottenere una superficie croccante e dorata che racchiude un cuore succulento."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            123.0,
+            527.78,
+            175.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 21,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Accanto, la carne di Mucca, teneramente preparata con la cottura a vapore termocinetica multipla, si fonde armoniosamente con funghi dell’Etere fluttuanti, esaltando un delicato profumo che solletica i sensi.",
+            "Un contorno di Riso di Cassandra cuoce con vapore a flusso di particelle isoarmoniche, ogni singolo chicco brilla come una stella danzante, conservando i suoi nutrienti e colori translucidi."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            189.0,
+            534.12,
+            241.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 22,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Il sapore imprevedibile delle Shard di Materia Oscura è catturato in un\\'infusione sublime, avvolgendo tutto in un\\'atmosfera di meraviglia gravitazionale.",
+            "Sorprendetevi con delle finissime teste di Idra, immerse in un consommé rigenerativo, la cui preparazione segue tecniche di taglio a risonanza sonica rigenerativa per assicurarne la sicurezza e il sapore impeccabile."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            255.0,
+            535.59,
+            321.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 23,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "A completare questa opera d\\'arte, il nostro Pane di Luce irradia energia dorata, pronto a raccogliere ogni sapore con la sua morbidezza.",
+            "E, come culmine di questo viaggio stellare, una degustazione di Biscotti della Galassia ruota allegramente intorno al piatto; scaglie di stelle e zucchero cosmico, accanto a un velato sentore di spezie Melange, che prolungano l\\'esperienza con un dolce indugio presciente che eleva l\\'anima oltre le stelle."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            336.0,
+            118.25,
+            348.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 24,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            364.0,
+            207.89,
+            486.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 25,
+        "level": 3,
+        "page_idx": 1,
+        "sentences": [
+            "Shard di Materia Oscura Carne di Balena spaziale Carne di Mucca Teste di Idra Riso di Cassandra Biscotti della Galassia Pane di Luce Funghi dell’Etere Spezie Melange"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            501.0,
+            108.94,
+            513.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 26,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            530.0,
+            340.98,
+            582.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 27,
+        "level": 3,
+        "page_idx": 1,
+        "sentences": [
+            "Cottura a Vapore con Flusso di Particelle Isoarmoniche Cottura a Vapore Termocinetica Multipla Taglio a Risonanza Sonica Rigenerativa Cottura con Microonde Entropiche Sincronizzate"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            598.0,
+            285.84,
+            613.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 28,
+        "level": 1,
+        "page_idx": 1,
+        "sentences": [
+            "Sinfonia Cosmica ma Fatta Male"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            632.0,
+            531.67,
+            684.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 29,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Preparati a un viaggio sensoriale attraverso le galassie con la nostra \"Sinfonia Cosmica ma Fatta Male\", un piatto che fonde armoniosamente scienza ed arte culinaria.",
+            "Il piatto si apre su un letto di Granuli di Nebbia Arcobaleno, le cui perle colorate emergono come nebulose in miniatura, riflettendo sfumature che catturano la luce e incantano lo sguardo."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            698.0,
+            511.7,
+            750.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 30,
+        "level": 2,
+        "page_idx": 1,
+        "sentences": [
+            "Al centro, una sfera di Funghi dell’Etere avvolti in un manto cremoso di purea di Radici di Singolarità, si staglia maestosa come un pianeta fluttuante.",
+            "L\\'affumicatura a Stratificazione Quantica aggiunge una profondità aromatica unica, con il sapore delicatamente affumicato che aleggia dall\\'interno di questa creazione cosmica."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            57.0,
+            528.15,
+            95.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 31,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Ad accompagnare, avvolgente nel suo abbraccio di clorofilla radiante, la Lattuga Namecciana si fonde con gocce traslucide di riduzione di Baccacedro, i cui sentori curativi e vivificanti rinvigoriscono l\\'anima.",
+            "Spruzzi di Polvere di Pulsar coronano il tutto, donando al piatto una carica di energia frizzante che risveglia i sensi."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            109.0,
+            536.89,
+            175.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 32,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "A completamento di questa esplorazione galattica, un\\'essenza di Erba Pipa trasportata dalla Cottura a Forno Dinamico Inversionale avvolge il piatto, infondendo aromi rilassanti che persistono nel palato come una dolce melodia perduta nello spazio infinito.",
+            "Questo capolavoro multisensoriale promette di trasportarti in un\\'odissea gustativa attraverso le stelle, intrecciando sapori e tecniche che sfidano le leggi dell\\'universo conosciuto."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            190.0,
+            118.25,
+            202.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 33,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            218.0,
+            227.3,
+            312.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 34,
+        "level": 3,
+        "page_idx": 2,
+        "sentences": [
+            "Polvere di Pulsar Radici di Singolarità Lattuga Namecciana Baccacedro Granuli di Nebbia Arcobaleno Funghi dell’Etere Erba Pipa"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            327.0,
+            108.94,
+            339.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 35,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            356.0,
+            269.42,
+            380.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 36,
+        "level": 3,
+        "page_idx": 2,
+        "sentences": [
+            "Affumicatura a Stratificazione Quantica Cottura a Forno Dinamico Inversionale"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            396.0,
+            300.0,
+            411.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 37,
+        "level": 1,
+        "page_idx": 2,
+        "sentences": [
+            "Astro-Risotto alle Onde Temporali"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            430.0,
+            524.74,
+            482.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 38,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Esplorate l\\'ignoto dell\\'universo con il nostro \"Astro-Risotto alle Onde Temporali\", un piatto concepito per trasportare i vostri sensi oltre i confini della realtà conosciuta.",
+            "Questa creazione all\\'avanguardia della Chef Aurora Stellaris unisce sapientemente la tradizione terrestre con l\\'innovazione cosmica attraverso un\\'orchestra di ingredienti stellari."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            496.0,
+            535.28,
+            548.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 39,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Il risotto, sapientemente saltato in padella con la tecnica classica per esaltarne la consistenza cremosa, viene impreziosito da Polvere di Pulsar, che dona un\\'esplosione di sapore frizzante e una carica energetica senza pari.",
+            "L\\'essenza cangiante delle Foglie di Nebulosa si manifesta attraverso cromie uniche, dipinte dalla luce ultravioletta, armonizzandosi con una consistenza visivamente e gustativamente magica."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            562.0,
+            525.25,
+            614.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 40,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "L\\'intrigante nota terrosa delle Radici di Singolarità conferisce profondità, mentre la Baccacedro, con le sue proprietà curative, offre un tocco aromatico che rinnova il palato.",
+            "L\\'intera preparazione è sapientemente marinata con reazioni d\\'antimateria diluite, intensificando l\\'anima del piatto con un retrogusto \"cosmico\" impareggiabile."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            628.0,
+            525.33,
+            680.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 41,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Infine, il nostro tocco magico: Sale Temporale, che sigilla il piatto con un sapore nostalgico e infinito, evocando memorie che fluttuano e ondeggiano come il tempo stesso.",
+            "Un\\'esperienza culinaria intemporale che risveglia l\\'essenza più pura dell\\'universo, lasciando impresso il ricordo della vostra avventura gastronomica nelle profondità dello spazio."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            694.0,
+            118.25,
+            706.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 42,
+        "level": 2,
+        "page_idx": 2,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            723.0,
+            185.14,
+            775.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 43,
+        "level": 3,
+        "page_idx": 2,
+        "sentences": [
+            "Polvere di Pulsar Foglie di Nebulosa Radici di Singolarità Baccacedro"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            97.0,
+            57.0,
+            167.39,
+            67.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 44,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Sale Temporale"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            82.0,
+            108.94,
+            94.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 45,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            110.0,
+            310.72,
+            134.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 46,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Saltare in Padella Classica Marinatura tramite Reazioni d\\'Antimateria Diluite"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            151.0,
+            340.73,
+            166.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 47,
+        "level": 1,
+        "page_idx": 3,
+        "sentences": [
+            "Sinfonia Galattica alla Griglia Cangiante"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            184.0,
+            530.22,
+            208.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 48,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Benvenuti in un viaggio culinario che esplora i confini del possibile.",
+            "La nostra \"Sinfonia Galattica alla Griglia Cangiante\" vi invita a un\\'esperienza che trasforma l\\'arte del cibo in un concerto di sapori e scoperte."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            222.0,
+            531.14,
+            274.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 49,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Al centro di questa creazione si erge una polposa e sontuosa testa di Idra, preparata con massima cura per preservarvi dalle sue curiosità naturali, e marinata in una sfera di infusione gravitazionale.",
+            "Questi baci di sapore si immergono profondamente nei tessuti della carne, arricchendola con sfumature di dolcezza e calore."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            288.0,
+            530.55,
+            326.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 50,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "A fianco, i Fusilli del Vento danzano nella virtuosa armonia di una bollitura infrasonica armonizzata.",
+            "Ogni avvolgimento cattura il retrogusto vibrante delle Spore Quantiche, che infondono una fragranza cangiante e multidimensionale difficilmente misurabile in convinzioni terrene."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            340.0,
+            534.79,
+            392.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 51,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Per stabilizzare l\\'universo di sapori, lo Shard di Materia Oscura, invisibile ma meravigliosamente percepibile, infonde un tocco elusivo che si evolve con l\\'ambientazione gravitazionale a cui sarete sottoposti, mentre l\\'amido di Stellarion apporta una gentile carezza di texture, legandosi con eleganza ad ogni componente del piatto."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            406.0,
+            537.17,
+            458.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 52,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Infine, tutto è abbracciato da una grigliatura elettro-molecolare a spaziatura variabile che incapsula il piatto in un abbraccio energetico, creando uno spettacolo di colori attraverso il controllo della luce.",
+            "Questa esperienza è arricchita dall\\'aroma rilassante dell\\'Erba Pipa, che fluttua come un silenzioso narratore, raccontando storie epiche attraverso una combinazione della stessa sostanza e vuoto."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            472.0,
+            531.04,
+            510.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 53,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "La \"Sinfonia Galattica alla Griglia Cangiante\" è più di un semplice pasto; è un racconto cosmico di essenze, fratture stellari e note dimenticate, impresso indelebilmente non solo nel palato, ma profondamente nell\\'anima di chi lo assapora."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            525.0,
+            118.25,
+            537.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 54,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            554.0,
+            205.11,
+            634.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 55,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Shard di Materia Oscura Teste di Idra Amido di Stellarion Fusilli del Vento Spore Quantiche Erba Pipa"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            648.0,
+            108.94,
+            660.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 56,
+        "level": 2,
+        "page_idx": 3,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            677.0,
+            290.56,
+            687.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 57,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Congelamento Bio-Luminiscente Sincronico"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            691.0,
+            281.11,
+            701.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 58,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Sinergia Elettro-Osmotica Programmabile"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            705.0,
+            242.83,
+            715.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 59,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Bollitura Infrasonica Armonizzata"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            719.0,
+            262.78,
+            729.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 60,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Marinatura a Infusione Gravitazionale"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            733.0,
+            324.34,
+            743.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 61,
+        "level": 3,
+        "page_idx": 3,
+        "sentences": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            759.0,
+            465.67,
+            774.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 62,
+        "level": 1,
+        "page_idx": 3,
+        "sentences": [
+            "Galassie Infiammate: Sinfonia Cosmica in Sei Dimensioni"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            57.0,
+            536.58,
+            95.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 63,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Imbarcati in un viaggio culinario senza precedenti con \"Galassie Infiammate\", un capolavoro galattico firmato dalla Chef Aurora Stellaris, che combina maestria gastronomica e scienza in un piatto che trascende ogni aspettativa."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            109.0,
+            528.23,
+            161.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 64,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Il cuore di questa creazione è un taglio pregiato di Carne di Mucca, marinato con maestria attraverso le reazioni d\\'antimateria diluite – un processo che intride la carne di un sapore profondo e di un retrogusto \"cosmico\" unico.",
+            "Cotto alla perfezione con la Cottura Idrodinamica Autoregolante, il filetto emana succosità ineguagliabile, mantenendo l\\'essenza terrestre della carne."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            175.0,
+            535.56,
+            227.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 65,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Come accompagnamento, il Riso di Cassandra viene vaporizzato utilizzando la Cottura a Vapore Ecodinamico Bilanciato, esaltando la sua brillantezza e donandogli una consistenza sublime, arricchita dai frammenti luminosi delle Uova di Fenice.",
+            "Spirali di Spaghi del Sole avvolgono il riso, infuse di calore solare e pronte a danzare nel piatto."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            241.0,
+            530.06,
+            279.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 66,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Gocce di Lacrime di Unicorno si mescolano con una salsa audace di Nduja Fritta Tanto, creando una sinfonia di dolcezza e fuoco che si sposa con ogni elementare boccone.",
+            "I Biscotti della Galassia, frantumati in polvere, donano al piatto una texture croccante e un riverbero astrale, completando l\\'esperienza stellare."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            293.0,
+            523.88,
+            331.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 67,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Il tutto è avvolto in una coreografia di Bollitura Termografica a Rotazione Veloce, un processo che infonde alla zuppa di accompagnamento, un\\'incantevole spirale di calore e sapore, con schegge di Frammenti di Supernova a galleggiare, amplificando la ricchezza del piatto."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            345.0,
+            495.44,
+            369.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 68,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "\"Galassie Infiammate\" non è solo un pasto; è un\\'odissea in cui le leggi del cosmo si fondono all\\'arte culinaria, regalandoti un\\'esperienza che resterà impressa nella tua anima."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            384.0,
+            118.25,
+            396.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 69,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            412.0,
+            206.22,
+            520.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 70,
+        "level": 3,
+        "page_idx": 4,
+        "sentences": [
+            "Frammenti di Supernova Uova di Fenice Carne di Mucca Riso di Cassandra Spaghi del Sole Biscotti della Galassia Lacrime di Unicorno Nduja Fritta Tanto"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            535.0,
+            108.94,
+            547.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 71,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            564.0,
+            310.72,
+            616.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 72,
+        "level": 3,
+        "page_idx": 4,
+        "sentences": [
+            "Cottura a Vapore Ecodinamico Bilanciato Cottura Idrodinamica Autoregolante Marinatura tramite Reazioni d\\'Antimateria Diluite Bollitura Termografica a Rotazione Veloce"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            632.0,
+            451.53,
+            647.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 73,
+        "level": 1,
+        "page_idx": 4,
+        "sentences": [
+            "Galassie Sospese: Un Viaggio di Sapori Cosmogalattici"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            666.0,
+            532.5,
+            732.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 74,
+        "level": 2,
+        "page_idx": 4,
+        "sentences": [
+            "Immaginate un piatto che trascende il tempo e lo spazio, un\\'esperienza culinaria che riecheggia nella vostra memoria come una sinfonia di stelle.",
+            "Le \"Galassie Sospese\" vi accolgono con aromi che sembrano evocare ricordi lontani, grazie alla singolare influenza dei Cristalli di Memoria.",
+            "Alla base del piatto, il Pane degli Abissi, scuro come il cosmo più profondo, fornisce una base ricca di minerali e un sapore terroso, perfetto per ancorare questa straordinaria avventura gustativa."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            57.0,
+            531.09,
+            109.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 75,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Questa creazione, concepita con la tecnica di Affumicatura a Stratificazione Quantica, permette al fragrante fumo di fondersi intimamente con il pane, sprigionando un aroma che sembra sbocciare dal suo cuore.",
+            "Delicatamente adagiatevi sopra le Radici di Gravità, fluttuanti e leggere, completate da un leggero tocco di affumicatura che rafforza il loro sapore unico e terroso."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            123.0,
+            536.03,
+            161.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 76,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Il tutto è impreziosito da gocce di Lacrime di Unicorno, che donano un tocco dolce e brillante, quasi etereo.",
+            "La salsa di Nduja Fritta Tanto forma eleganti spirali che danzano intorno al piatto, pronte a stupire con quella nota piccante che scatena un\\'esplosione di fuoco al palato."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            175.0,
+            535.06,
+            213.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 77,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Il piatto include infine piccole sfere di Biscotti della Galassia sospese sopra una creazione che sfida la gravità, grazie alla manipolazione Gravitazionale, in modo che sembrino scintillare a ogni movimento mentre lasciano una traccia di zucchero cosmico che delizierà il vostro palato."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            227.0,
+            529.98,
+            279.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 78,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Questo piatto viene presentato in uno spettacolo visivo che esalta il controllo della Luce, mentre i colori e le ombre danzano, coinvolgendo i sensi e trasportando i commensali in un viaggio nel cosmo.",
+            "Ogni boccone delle Galassie Sospese è un\\'avventura che evoca emozioni e trasforma il momento in un ricordo culinario senza tempo."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            294.0,
+            118.25,
+            306.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 79,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            322.0,
+            194.58,
+            402.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 80,
+        "level": 3,
+        "page_idx": 5,
+        "sentences": [
+            "Cristalli di Memoria Radici di Gravità Pane degli Abissi Biscotti della Galassia Lacrime di Unicorno Nduja Fritta Tanto"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            417.0,
+            108.94,
+            429.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 81,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            446.0,
+            269.42,
+            456.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 82,
+        "level": 3,
+        "page_idx": 5,
+        "sentences": [
+            "Affumicatura a Stratificazione Quantica"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            460.0,
+            275.53,
+            470.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 83,
+        "level": 3,
+        "page_idx": 5,
+        "sentences": [
+            "Cottura a Vapore Termocinetica Multipla"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            474.0,
+            257.81,
+            484.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 84,
+        "level": 3,
+        "page_idx": 5,
+        "sentences": [
+            "Marinatura Temporale Sincronizzata"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            500.0,
+            215.94,
+            515.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 85,
+        "level": 1,
+        "page_idx": 5,
+        "sentences": [
+            "Pioggia di Andromeda"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            534.0,
+            527.53,
+            558.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 86,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Lasciatevi trasportare in una danza sensoriale attraverso il cosmo con il nostro piatto esclusivo, \"Pioggia di Andromeda\".",
+            "Un\\'opera d\\'arte culinaria in cui ogni elemento racconta una storia antica come l\\'universo."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            572.0,
+            527.22,
+            624.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 87,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "La presentazione inizia con una base di Fusilli del Vento, la loro struttura lieve cattura gli aromi e prepara il palato a un viaggio vibrante.",
+            "Sopra la pasta, un ricco ragù di Carne di Kraken sorprende con il suo sapore salmastro intrecciato al profondo gusto delle Radici di Singolarità, sapientemente cotto con la tecnica della Bollitura Infrasonica Armonizzata per esaltarne l\\'essenza."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            638.0,
+            534.97,
+            690.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 88,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Gocce di Lacrime di Andromeda orbitano intorno al piatto, infondendo le loro proprietà curative e appagando i sensi con la loro salinità unica.",
+            "Un\\'insalata di Lattuga Namecciana apporta un tocco fosforescente e un\\'energia rigenerativa, mentre i Cristalli di Memoria sublimano l\\'intera esperienza con sapori nostalgici, risvegliando ricordi dimenticati."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            704.0,
+            531.08,
+            756.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 89,
+        "level": 2,
+        "page_idx": 5,
+        "sentences": [
+            "Le Uova di Fenice, cotte con una precisa Cottura Idrodinamica Autoregolante, si posano soffici e luminose, evocando una rinascita attraverso colori e luci spettacolari.",
+            "Il piatto è completato dalla Fibra di Sintetex, che avvolge il tutto in texture futuristiche, mantenendo una perfetta idratazione grazie alla Sinergia Elettro- Osmotica Programmabile."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            57.0,
+            537.77,
+            95.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 90,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Attorno a questi elementi, drammatizziamo l\\'incontro dei sapori con un filo d\\'Essenza di Speziaria, che lega insieme la complessità gourmet del piatto.",
+            "Infine, la Marinatura Temporale Sincronizzata dona a ogni carne e verdura una profondità di sapore, comprimendo l\\'intero cosmo in un singolo boccone."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            109.0,
+            537.64,
+            133.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 91,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Un’avventura culinaria ai confini della realtà, \"Pioggia di Andromeda\" è più di un semplice piatto; è un viaggio celeste che vi invita ad esplorare il cosmo in ogni assaggio."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            148.0,
+            118.25,
+            160.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 92,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            176.0,
+            197.36,
+            298.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 93,
+        "level": 3,
+        "page_idx": 6,
+        "sentences": [
+            "Cristalli di Memoria Lattuga Namecciana Radici di Singolarità Carne di Kraken Uova di Fenice Fibra di Sintetex Fusilli del Vento Lacrime di Andromeda Essenza di Speziaria"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            313.0,
+            108.94,
+            325.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 94,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            342.0,
+            283.86,
+            352.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 95,
+        "level": 3,
+        "page_idx": 6,
+        "sentences": [
+            "Bollitura Termografica a Rotazione Veloce"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            356.0,
+            242.83,
+            366.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 96,
+        "level": 3,
+        "page_idx": 6,
+        "sentences": [
+            "Bollitura Infrasonica Armonizzata"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            370.0,
+            254.45,
+            380.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 97,
+        "level": 3,
+        "page_idx": 6,
+        "sentences": [
+            "Cottura Idrodinamica Autoregolante"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            384.0,
+            281.11,
+            394.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 98,
+        "level": 3,
+        "page_idx": 6,
+        "sentences": [
+            "Sinergia Elettro-Osmotica Programmabile"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            398.0,
+            257.81,
+            408.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 99,
+        "level": 3,
+        "page_idx": 6,
+        "sentences": [
+            "Marinatura Temporale Sincronizzata"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            424.0,
+            289.19,
+            439.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 100,
+        "level": 1,
+        "page_idx": 6,
+        "sentences": [
+            "Sinfonia Cosmica ma Fatta Bene"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            458.0,
+            532.71,
+            496.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 101,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Benvenuti a un\\'interazione culinaria che trascende i confini del tempo e dello spazio.",
+            "La nostra \"Sinfonia Cosmica ma Fatta Bene\" è un piatto che incanta i sensi, orchestrato con l\\'inconfondibile maestria della Chef Aurora Stellaris, dove ogni nota gastronomica vibra con un\\'armonia che sfida le leggi dell\\'universo."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            510.0,
+            533.64,
+            562.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 102,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Il cuore di questa creazione è il Filetto di Carne di Balena Spaziale, amorevolmente affumicato usando la tecnica dell\\'Affumicatura Temporale Risonante.",
+            "Questa lavorazione sublima il sapore della carne, condensando i complessi aromi di anni di affumicatura in un\\'esperienza sensoriale che travolge il palato con sfumature profonde e misteriose."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            576.0,
+            537.47,
+            628.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 103,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Accompagnato da una riduzione al Nettare di Sirena, evocativa dei misteriosi oceani alieni, il filetto si adagia su un cremoso purè di Amido di Stellarion.",
+            "Questo purè possiede una consistenza leggera quanto l\\'aria, ottenuta grazie all\\'Impasto Gravitazionale Vorticoso, che incoraggia la presenza sottile di umidità ed equilibra la consistenza cremosa necessaria per accompagnare ogni boccone."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            642.0,
+            535.05,
+            680.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 104,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Al fianco, una Colonia di Mycoflora viene presentata come una composizione intrisa di colori e sapori, grazie alla tecnica del Congelamento Bio-Luminiscente Sincronico.",
+            "I funghi emettono una luminescenza naturale che attrae gli occhi tanto quanto il palato, preservando intatta la freschezza originaria."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            694.0,
+            531.45,
+            732.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 105,
+        "level": 2,
+        "page_idx": 6,
+        "sentences": [
+            "Sul piatto, un velo delicato di Shard di Materia Oscura aggiunge una dimensione sorprendente all\\'esperienza: invisibile al tatto ma essenziale per la complessità del gusto, risvegliando la percezione degli spettatori con ogni variazione gravitazionale che si percepisce nei dintorni."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            57.0,
+            522.77,
+            109.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 106,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Infine, la Bollitura Infrasonica Armonizzata infonde le nostre Zuppe di Petali di Eco con una risonanza che trasporta l\\'essenza dei suoni e dell\\'aroma, creando una melodia liquida che abbraccia la degustazione: sorseggiando, si vengono avvolti da toni rilassanti, completando l\\'esperienza coesa di questo viaggio culinario interstellare."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            123.0,
+            512.02,
+            147.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 107,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "La \"Sinfonia Cosmica\" è stata creata per incarnare l\\'arte culinaria come una sinergia tra ingredienti straordinari e tecniche futuristiche, per coloro che cercano un sapore che risuoni nei recessi dell\\'anima."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            162.0,
+            118.25,
+            174.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 108,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            190.0,
+            207.89,
+            270.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 109,
+        "level": 3,
+        "page_idx": 7,
+        "sentences": [
+            "Shard di Materia Oscura Colonia di Mycoflora Carne di Balena spaziale Amido di Stellarion Nettare di Sirena Petali di Eco"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            285.0,
+            108.94,
+            297.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 110,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            314.0,
+            251.14,
+            324.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 111,
+        "level": 3,
+        "page_idx": 7,
+        "sentences": [
+            "Affumicatura Temporale Risonante"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            328.0,
+            290.56,
+            338.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 112,
+        "level": 3,
+        "page_idx": 7,
+        "sentences": [
+            "Congelamento Bio-Luminiscente Sincronico"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            342.0,
+            242.83,
+            352.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 113,
+        "level": 3,
+        "page_idx": 7,
+        "sentences": [
+            "Bollitura Infrasonica Armonizzata"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            356.0,
+            243.39,
+            366.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 114,
+        "level": 3,
+        "page_idx": 7,
+        "sentences": [
+            "Impasto Gravitazionale Vorticoso"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            382.0,
+            260.03,
+            397.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 115,
+        "level": 1,
+        "page_idx": 7,
+        "sentences": [
+            "Odissea Cosmica di Nettuno"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            416.0,
+            536.31,
+            482.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 116,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Immergetevi in un viaggio celestiale con la nostra Odissea Cosmica di Nettuno, un piatto che incanta i sensi e narra storie di mondi lontani.",
+            "La base è un soffice Pane di Luce, cotto alla perfezione con la luminosità pura di una stella, che presenta un croccante dorato capace di infondere un\\'energia vibrante.",
+            "Su questo letto etereo, adagiamo una mousse setosa composta da Farina di Nettuno, dalle delicate sfumature marine che evocano le onde lontane."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            496.0,
+            533.25,
+            562.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 117,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Per l\\'anima croccante del piatto, sfere armoniche di Amido di Stellarion vengono sottoposte alla Bollitura Infrasonica Armonizzata, ciascuna infusa di risonanze nutrienti che intensificano la profondità aromatica del piatto.",
+            "Una riduzione di Nettare di Sirena, ottenuta mediante la Cottura Sottovuoto Frugale Energeticamente Negativa, abbraccia con la sua essenza rigenerante, arricchendo il piatto di un\\'impronta sostenibile e ipnotica."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            576.0,
+            527.51,
+            614.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 118,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Infine, uno spettacolare caleidoscopio di Essenza di Vuoto viene generato attraverso la Bollitura Termografica a Rotazione Veloce, creando eleganti vortici che avvolgono tutto in un\\'eterna danza di sapori infiniti."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            628.0,
+            537.89,
+            666.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 119,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Ogni boccone di questa creazione cambia ed evolve, regalando sorprese cosmiche che lasciano un’impronta indelebile nell’anima del commensale.",
+            "Preparati a esplorare l\\'universo attraverso questo capolavoro culinario che sfida le leggi della fisica e risveglia la meraviglia del cosmo sul vostro palato."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            680.0,
+            118.25,
+            692.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 120,
+        "level": 2,
+        "page_idx": 7,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            709.0,
+            180.14,
+            775.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 121,
+        "level": 3,
+        "page_idx": 7,
+        "sentences": [
+            "Pane di Luce Farina di Nettuno Amido di Stellarion Nettare di Sirena Essenza di Vuoto"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            56.0,
+            108.94,
+            68.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 122,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            85.0,
+            242.83,
+            95.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 123,
+        "level": 3,
+        "page_idx": 8,
+        "sentences": [
+            "Bollitura Infrasonica Armonizzata"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            99.0,
+            337.08,
+            109.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 124,
+        "level": 3,
+        "page_idx": 8,
+        "sentences": [
+            "Cottura Sottovuoto Frugale Energeticamente Negativa"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            113.0,
+            283.86,
+            123.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 125,
+        "level": 3,
+        "page_idx": 8,
+        "sentences": [
+            "Bollitura Termografica a Rotazione Veloce"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            139.0,
+            289.22,
+            154.0
+        ],
+        "block_class": "cls_3",
+        "block_idx": 126,
+        "level": 1,
+        "page_idx": 8,
+        "sentences": [
+            "Galassia Commovente di Stellari"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            57.0,
+            173.0,
+            533.89,
+            211.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 127,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Preparati a intraprendere un viaggio sensoriale attraverso l\\'universo con la nostra \"Galassia Commovente di Stellari\", un piatto che unisce l\\'arte culinaria a una sinfonia cosmica inesplorata.",
+            "Questa meraviglia gastronomica sfida le leggi della fisica e svela sapori che danzano nel tempo e nello spazio."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            225.0,
+            530.03,
+            291.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 128,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Il cuore del piatto è una succulenta bistecca di Carne di Balena Spaziale, perfettamente cotta attraverso la tecnica della Grigliatura Elettro-Molecolare a Spaziatura Variabile, garantendo una cottura uniforme e stratificata che preserva la ricchezza del gusto intrinseco.",
+            "Questo sontuoso taglio di carne viene marinato con precisione gravitazionale usando la Marinatura a Infusione Gravitazionale, infondendo aromi profondi e complessi che sfidano la percezione sensoriale."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            305.0,
+            528.98,
+            343.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 129,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Adagiata su un letto di Alghe Bioluminescenti leggermente affumicate, la carne è accompagnata da una composizione armoniosa di Funghi Orbitali, la cui terrena complessità è accentuata con spruzzi di Essenza di Tachioni, dando un tocco di futurismo e un leggero brivido metabolico."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            357.0,
+            534.42,
+            395.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 130,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Le Teste di Idra, rese sicure attraverso una preparazione scrupolosa, sono intessute in una zuppa cristallina servita a lato, arricchita dalla distintiva Polvere di Stelle per creare un effetto luminoso mozzafiato che esalta i sapori rigenerativi di questa carne mitica."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            409.0,
+            534.38,
+            433.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 131,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Il piatto è rifinito con petali di Baccacedro, che oltre a conferire una nota leggermente agrumata, aggiungono un elemento curativo e rivitalizzante all\\'intera esperienza."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            447.0,
+            537.81,
+            471.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 132,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Per un tocco finale che sfida ogni aspettativa, utilizziamo la Cryo-Tessitura Energetica Polarizzata su Fibre di Sintetex cannellate, strutturando croccanti tessuti alimentari che avvolgono deliziosamente ogni boccone."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            485.0,
+            529.39,
+            537.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 133,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Questa opera d\\'arte galattica non è solo un pasto, ma un\\'esperienza quantica che avvolge i sensi, sfidando la vostra immaginazione.",
+            "Mentre la luce gioca sui contorni del piatto grazie al senso unico di Luce II della Chef Stellaris, lasciate che la vostra anima venga trasportata verso una nuova dimensione culinaria, un incontro tra spazio e sapore che non dimenticherete mai."
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            551.0,
+            118.25,
+            563.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 134,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Ingredienti"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            580.0,
+            207.89,
+            688.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 135,
+        "level": 3,
+        "page_idx": 8,
+        "sentences": [
+            "Polvere di Stelle Alghe Bioluminescenti Baccacedro Carne di Balena spaziale Teste di Idra Fibra di Sintetex Funghi Orbitali Essenza di Tachioni"
+        ],
+        "tag": "para"
+    },
+    {
+        "bbox": [
+            57.0,
+            703.0,
+            108.94,
+            715.0
+        ],
+        "block_class": "cls_4",
+        "block_idx": 136,
+        "level": 2,
+        "page_idx": 8,
+        "sentences": [
+            "Tecniche"
+        ],
+        "tag": "header"
+    },
+    {
+        "bbox": [
+            97.0,
+            731.0,
+            324.34,
+            769.0
+        ],
+        "block_class": "cls_1",
+        "block_idx": 137,
+        "level": 3,
+        "page_idx": 8,
+        "sentences": [
+            "Grigliatura Eletro-Molecolare a Spaziatura Variabile Marinatura a Infusione Gravitazionale Cryo-Tessitura Energetica Polarizzata"
+        ],
+        "tag": "header"
+    }
+]
